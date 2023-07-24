@@ -1,0 +1,4 @@
+useDynLib("lassoboot", .registration = TRUE)
+
+export(lassofit)
+export(factorsparsetest)

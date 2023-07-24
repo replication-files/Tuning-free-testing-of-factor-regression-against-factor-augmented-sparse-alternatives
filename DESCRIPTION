@@ -1,0 +1,10 @@
+Package: lassoboot
+Type: Package
+Title: Bootstrap for LASSO
+Version: 0.0.1
+Authors@R: c(person("replication", "files",  role = c("cre","aut"), email = "replication.files@gmail.com"))
+Maintainer: replication files <replication.files@gmail.com>
+Description: The 'lassoboot' package implements bootstrap methods for tuning parameter selection and tuning-free high-dimensional inference. 
+License: GPL (>= 2)
+Depends: Matrix, R (>= 3.5.0)	
+RoxygenNote: 7.2.1
